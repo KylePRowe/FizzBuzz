@@ -11,7 +11,7 @@ namespace FizzBuzz
     /// <summary>
     /// Author: Kyle Rowe
     /// Date: 2020-08-14
-    /// Purpose: Simple program to play FizzBuzz with dynamic beginning and ending points, as well as a dynamic number of multiples to check
+    /// Purpose: Simple program to play FizzBuzz with dynamic beginning and ending points, as well as a dynamic number of multiples to check.
     /// </summary>
     class Program
     {
